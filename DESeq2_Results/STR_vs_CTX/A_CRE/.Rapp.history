@@ -1,0 +1,15 @@
+load("/Users/prakap02/Desktop/DESeq2_Results/STR_vs_CTX/A_CRE/pcaData.rds")
+pcaData <- readRDS("/full/path/to/your/file/pcaData.rds")
+pcaData <- readRDS("/Users/prakap02/Desktop/DESeq2_Results/STR_vs_CTX/A_CRE/pcaData.rds")
+str(pcaData)
+summary(pcaData)
+plot(pcaData$x[,1], pcaData$x[,2], #
+     xlab = "PC1", ylab = "PC2", #
+     main = "PCA plot",#
+     pch = 19, col = "blue")
+plot(pcaData$PC1, pcaData$PC2, #
+     xlab = "PC1", ylab = "PC2", #
+     main = "PCA plot",#
+     pch = 19, #
+     col = ifelse(pcaData$group == "CTX-M-CRE", "blue", "red"))#
+legend("topright", legend = levels(pcaData$group), col = c("blue", "red"), pch = 19)

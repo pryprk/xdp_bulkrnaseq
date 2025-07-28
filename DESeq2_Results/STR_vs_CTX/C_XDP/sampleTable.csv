@@ -1,0 +1,7 @@
+#SAMPLE,fileName,group
+CTX-M-XDP1,CTX-M-XDP1.counts.rev.txt,CTX-M-XDP
+CTX-M-XDP2,CTX-M-XDP2.counts.rev.txt,CTX-M-XDP
+CTX-M-XDP3,CTX-M-XDP3.counts.rev.txt,CTX-M-XDP
+STR-M-XDP1,STR-M-XDP1.counts.rev.txt,STR-M-XDP
+STR-M-XDP2,STR-M-XDP2.counts.rev.txt,STR-M-XDP
+STR-M-XDP3,STR-M-XDP3.counts.rev.txt,STR-M-XDP

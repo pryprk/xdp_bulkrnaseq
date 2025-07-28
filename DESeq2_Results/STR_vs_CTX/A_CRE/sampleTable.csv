@@ -1,0 +1,7 @@
+#SAMPLE,fileName,group
+CTX-M-CRE1,CTX-M-CRE1.counts.rev.txt,CTX-M-CRE
+CTX-M-CRE2,CTX-M-CRE2.counts.rev.txt,CTX-M-CRE
+CTX-M-CRE3,CTX-M-CRE3.counts.rev.txt,CTX-M-CRE
+STR-M-CRE1,STR-M-CRE1.counts.rev.txt,STR-M-CRE
+STR-M-CRE2,STR-M-CRE2.counts.rev.txt,STR-M-CRE
+STR-M-CRE3,STR-M-CRE3.counts.rev.txt,STR-M-CRE

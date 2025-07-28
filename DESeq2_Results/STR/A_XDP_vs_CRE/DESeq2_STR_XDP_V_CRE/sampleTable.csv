@@ -1,0 +1,7 @@
+#SAMPLE,fileName,group
+STR-M-CRE1,STR-M-CRE1.counts.rev.txt,STR-M-CRE
+STR-M-CRE2,STR-M-CRE2.counts.rev.txt,STR-M-CRE
+STR-M-CRE3,STR-M-CRE3.counts.rev.txt,STR-M-CRE
+STR-M-XDP1,STR-M-XDP1.counts.rev.txt,STR-M-XDP
+STR-M-XDP2,STR-M-XDP2.counts.rev.txt,STR-M-XDP
+STR-M-XDP3,STR-M-XDP3.counts.rev.txt,STR-M-XDP

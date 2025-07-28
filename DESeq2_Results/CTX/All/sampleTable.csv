@@ -1,0 +1,11 @@
+#SAMPLE,fileName,group
+CTX-M-CRE1,CTX-M-CRE1.counts.rev.txt,CTX-M-CRE
+CTX-M-CRE2,CTX-M-CRE2.counts.rev.txt,CTX-M-CRE
+CTX-M-CRE3,CTX-M-CRE3.counts.rev.txt,CTX-M-CRE
+CTX-M-DSVA1,CTX-M-DSVA1.counts.rev.txt,CTX-M-DSVA
+CTX-M-DSVA2,CTX-M-DSVA2.counts.rev.txt,CTX-M-DSVA
+CTX-M-DSVA3,CTX-M-DSVA3.counts.rev.txt,CTX-M-DSVA
+CTX-M-DSVA4,CTX-M-DSVA4.counts.rev.txt,CTX-M-DSVA
+CTX-M-XDP1,CTX-M-XDP1.counts.rev.txt,CTX-M-XDP
+CTX-M-XDP2,CTX-M-XDP2.counts.rev.txt,CTX-M-XDP
+CTX-M-XDP3,CTX-M-XDP3.counts.rev.txt,CTX-M-XDP

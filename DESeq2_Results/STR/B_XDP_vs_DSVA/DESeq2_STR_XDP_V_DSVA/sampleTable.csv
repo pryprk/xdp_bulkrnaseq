@@ -1,0 +1,8 @@
+#SAMPLE,fileName,group
+STR-M-DSVA1,STR-M-DSVA1.counts.rev.txt,STR-M-DSVA
+STR-M-DSVA2,STR-M-DSVA2.counts.rev.txt,STR-M-DSVA
+STR-M-DSVA3,STR-M-DSVA3.counts.rev.txt,STR-M-DSVA
+STR-M-DSVA4,STR-M-DSVA4.counts.rev.txt,STR-M-DSVA
+STR-M-XDP1,STR-M-XDP1.counts.rev.txt,STR-M-XDP
+STR-M-XDP2,STR-M-XDP2.counts.rev.txt,STR-M-XDP
+STR-M-XDP3,STR-M-XDP3.counts.rev.txt,STR-M-XDP

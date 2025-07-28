@@ -1,0 +1,3 @@
+load("/Users/prakap02/Desktop/DESeq2_Results/CTX/A_XDP_vs_CRE/pcaData.rds")
+load("/Users/prakap02/Desktop/DESeq2_Results/CTX/A_XDP_vs_CRE/desep2-res.rds")
+load("/Users/prakap02/Desktop/DESeq2_Results/STR/B_XDP_vs_DSVA/desep2-res.rds")
